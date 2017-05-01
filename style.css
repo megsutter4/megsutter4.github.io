@@ -10,7 +10,7 @@ a {
   color: inherit;
 }
 .header {
-  font-family: Malgun Gothic;
+  font-family: Garamond;
   border-bottom: 4px solid lightpink;
   width: 80%;
   padding-top: 5%;
@@ -50,7 +50,7 @@ a {
   border-top-left-radius: 15px;
 
   /* font */
-  font-family: Malgun Gothic;
+  font-family: Garamond;
   font-weight: 300;
   font-size: 1.2rem;
 
@@ -72,7 +72,7 @@ a {
   border-bottom-left-radius: 2px;
   border-top-left-radius: 15px;
 
-  font-family: Malgun Gothic;
+  font-family: Garamond;
   font-weight: 300;
   font-size: 1.2rem;
 
@@ -93,7 +93,7 @@ a {
   border-bottom-left-radius: 2px;
   border-top-left-radius: 15px;
 
-  font-family: Malgun Gothic;
+  font-family: Garamond;
   font-weight: 300;
   font-size: 1.2rem;
 
