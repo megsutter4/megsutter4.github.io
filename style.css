@@ -13,7 +13,6 @@ a {
   font-family: Garamond;
   border: 15px solid #138d75; 
   width: 80%;
-  height: 25%
   padding-top: 5%;
   padding-left: 5%;
   margin-left: 5%;
@@ -23,7 +22,7 @@ a {
 
 .title {
   color: black;
-  padding-right: 10%;
+  padding-right: 40%
   font-size: 150%;
 
 }
