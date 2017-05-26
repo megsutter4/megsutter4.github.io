@@ -107,7 +107,7 @@ h2 {
   background-color: white;
   border-left-color: rgb(115, 160, 196);
   border-right-color: rgb(209, 234, 255);
-  color: rgba(253, 254, 254, 0.8);
+  color: (253, 254, 254, 0.8);
 
 }
 
