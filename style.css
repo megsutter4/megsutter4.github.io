@@ -10,26 +10,28 @@ a {
   color: inherit;
 }
 h1 {
-  width: 80%;
-  background-color: white;
+  border: 5px solid rgb(213, 216, 220);
+  background-color: black;
   padding-top: 100px;
   font-family: "Garamond", serif;
-  font-size: 32px;
+  font-size: 100px;
   text-align: center;
-  width: 60%;
+  width: 70%;
+  padding-left: 17.5%;
   word-spacing: 0.05em;
-  color: black;
+  color: rgb(213, 216, 220);
 }
 
 h2 {
-  color: rgba(23, 32, 42, 0.55);
+  color: rgb(213, 216, 220);
   font-weight: 100;
   font-family: "Garamond", serif;
-  font-size: 22px;
+  font-style: italic;
+  font-size: 50px;
   line-height: 24px;
   text-align: right; 
   padding-bottom: 50px;
-  padding-right: 10%;
+  padding-right: 17.5%;
   border-bottom: 10px solid rgba(39, 55, 70, 0.5); 
 }
 
@@ -101,7 +103,7 @@ h2 {
   border-right: 4px solid #fff2f2;
 }
 
-.home:hover {
+.portfolio:hover {
   background-color: white;
   border-left-color: rgb(115, 160, 196);
   border-right-color: rgb(209, 234, 255);
