@@ -12,12 +12,12 @@ a {
 h1 {
   border: 5px solid rgb(213, 216, 220);
   background-color: black;
-  padding-top: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   font-family: "Garamond", serif;
   font-size: 100px;
   text-align: center;
   width: 70%;
-  padding-left: 17.5%;
   word-spacing: 0.05em;
   color: rgb(213, 216, 220);
 }
@@ -32,7 +32,7 @@ h2 {
   text-align: right; 
   padding-bottom: 50px;
   padding-right: 17.5%;
-  border-bottom: 10px solid rgba(39, 55, 70, 0.5); 
+  border-bottom: 10px solid rgba(128, 139, 150, 0.3); 
 }
 
 
